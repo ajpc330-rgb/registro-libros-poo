@@ -1,0 +1,8 @@
+﻿REGISTRO DE LIBROS
+Fecha de generación: 2026-11-25 16:55:29
+------------------------------------------------------------
+Libro 1 | Código: 77 | Título: hola | Autor: yonny | Año: 1995 | Editorial: susaeta | Páginas: 44
+Libro 2 | Código: ui | Título: el hombre que quiso ser | Autor: elver galarga | Año: 2025 | Editorial: nike | Páginas: 145
+Libro 3 | Código: ghj | Título: hola mundo | Autor: robeton | Año: 1986 | Editorial: traveler | Páginas: 499
+Libro 4 | Código: ji | Título: gdlgjsd | Autor: hol | Año: 2000 | Editorial: hg | Páginas: 44
+Libro 5 | Código: gj | Título: gjlg | Autor: gjld | Año: 1998 | Editorial: gji | Páginas: 678

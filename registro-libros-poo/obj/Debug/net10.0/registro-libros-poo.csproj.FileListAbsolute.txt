@@ -1,0 +1,15 @@
+/workspaces/registro-libros-poo/registro-libros-poo/bin/Debug/net10.0/registro-libros-poo
+/workspaces/registro-libros-poo/registro-libros-poo/bin/Debug/net10.0/registro-libros-poo.deps.json
+/workspaces/registro-libros-poo/registro-libros-poo/bin/Debug/net10.0/registro-libros-poo.runtimeconfig.json
+/workspaces/registro-libros-poo/registro-libros-poo/bin/Debug/net10.0/registro-libros-poo.dll
+/workspaces/registro-libros-poo/registro-libros-poo/bin/Debug/net10.0/registro-libros-poo.pdb
+/workspaces/registro-libros-poo/registro-libros-poo/obj/Debug/net10.0/registro-libros-poo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/registro-libros-poo/registro-libros-poo/obj/Debug/net10.0/registro-libros-poo.AssemblyInfoInputs.cache
+/workspaces/registro-libros-poo/registro-libros-poo/obj/Debug/net10.0/registro-libros-poo.AssemblyInfo.cs
+/workspaces/registro-libros-poo/registro-libros-poo/obj/Debug/net10.0/registro-libros-poo.csproj.CoreCompileInputs.cache
+/workspaces/registro-libros-poo/registro-libros-poo/obj/Debug/net10.0/registro-libros-poo.sourcelink.json
+/workspaces/registro-libros-poo/registro-libros-poo/obj/Debug/net10.0/registro-libros-poo.dll
+/workspaces/registro-libros-poo/registro-libros-poo/obj/Debug/net10.0/refint/registro-libros-poo.dll
+/workspaces/registro-libros-poo/registro-libros-poo/obj/Debug/net10.0/registro-libros-poo.pdb
+/workspaces/registro-libros-poo/registro-libros-poo/obj/Debug/net10.0/registro-libros-poo.genruntimeconfig.cache
+/workspaces/registro-libros-poo/registro-libros-poo/obj/Debug/net10.0/ref/registro-libros-poo.dll

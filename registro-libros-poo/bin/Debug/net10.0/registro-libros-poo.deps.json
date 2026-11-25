@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "registro-libros-poo/1.0.0": {
+        "runtime": {
+          "registro-libros-poo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "registro-libros-poo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
